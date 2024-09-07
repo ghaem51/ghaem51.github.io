@@ -6,7 +6,6 @@
 .pnp.js
 .yarn/install-state.gz
 .yarn/*
-yarn.lock
 .yarnrc.yml
 
 # testing
@@ -37,6 +36,3 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-yarn.lock
-yarn.lock
-package-lock.json
