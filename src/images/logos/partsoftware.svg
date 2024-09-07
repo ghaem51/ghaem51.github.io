@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="125.56" height="138.96" viewBox="0 0 125.56 138.96"><script xmlns="" async="false" type="text/javascript" src="chrome-extension://fnjhmkhhmkbjkkabndcnnogagogbneec/in-page.js"/>
+    <defs>
+        <style>
+            .cls-1,.cls-2{fill:#00365b;fill-rule:evenodd}.cls-2{fill:#e93739}.cls-3{fill:#5f7887}
+        </style>
+    </defs>
+    <g id="part_logo" data-name="part logo" transform="">
+        <g id="Group_1" data-name="Group 1" transform="">
+            <path id="Path_1" d="M317.749 221.133c-1.066 4.4-2.22 8.437-3.265 11.464 1.878-15.9-10.107-39.49-20.987-45.362 26.936 23.086 16.248 76.654-23.117 76.654-19.06 0-36.071-17.564-33.636-42.563 6.359 16.941 18.479 23.623 29.493 23.121 31.725-1.446 30.205-49.635-.821-52.631a34.987 34.987 0 0 0-27.624 9.949c-22.917 23-14.112 81.418.073 106.928a84.976 84.976 0 0 1-2.57-15.609 19.435 19.435 0 0 1 .063-2.357 62.771 62.771 0 0 0 82.391-69.593z" class="cls-1" data-name="Path 1" transform="translate(-192.993 -169.732)"/>
+            <path id="Path_2" d="M223.559 153.683c11.663.955 20.323 3.919 26.779 8.357-5.115-6.893-36.908-26.116-67.852-6.723a62.887 62.887 0 0 0-27.434 69.5 68.387 68.387 0 0 1 2.917-8.97c-.216 9.919.532 22.414 5.606 44.243.046-41.665 4.988-105.615 59.984-106.407z" class="cls-2" data-name="Path 2" transform="translate(-152.9 -146.894)"/>
+        </g>
+        
+        
+    </g>
+</svg>
