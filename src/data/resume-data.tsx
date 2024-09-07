@@ -22,9 +22,9 @@ export const RESUME_DATA = {
   "I'm a diligent Computer Engineering graduate with a First Class Honours degree from Birjand University of Technology. Passionate about problem-solving and coding since school, I continuously deepen my understanding and refine my skills. Currently, I'm engaged in Network Security, applying and expanding my knowledge. I thrive on tackling challenges, contributing to team success with diligence, attention to detail, and strong organizational abilities.",
     // "A dynamic and diligent Computer Engineering graduate from Birjand University of Technology, I hold a First Class Honours degree and a passion for problem-solving. My journey into the fascinating world of coding began during my school days and has relentlessly driven me to deepen my understanding and enhance my skills.Though I describe myself as a 'noob' in computers, this merely reflects my commitment to lifelong learning and my belief that there is always more to master in this rapidly evolving field. As I continue to learn, I am fortunate to apply and expand my knowledge in my current role in Network Security.In my work, I demonstrate an eagerness to tackle challenging issues and contribute to team success through hard work, attention to detail, and excellent organizational skills. I'm always open to connecting with like-minded professionals who are also passionate about technology and its potential to influence the future.",
   avatarUrl: "https://avatars.githubusercontent.com/u/17712146?v=4",
-  personalWebsiteUrl: "https://ghaem.chiachoob.com",
+  personalWebsiteUrl: "https://ghaem51.github.io/",
   contact: {
-    email: "ghaem51@yahoo.com",
+    email: "ghaem1376@gmail.com",
     tel: "+16477653853",
     social: [
       {
