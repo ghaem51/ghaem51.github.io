@@ -181,14 +181,14 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "defectdojo_wazuh_intigration",
+      title: "dejavo",
       techStack: ["Python", "wazuh", "defectdojo"],
       description:
         "Auto integrates Wazuh vulnerabilities into DefectDojo with a simple Python project, enhancing vulnerability tracking and management efficiency",
       logo: Defectdojo_WazuhLogo,
       link: {
-        label: "defectdojo_wazuh_intigration",
-        href: "https://github.com/ghaem51/defectdojo_wazuh_intigration",
+        label: "dejavu",
+        href: "https://github.com/ghaem51/dejavu",
       },
     }
   ],
