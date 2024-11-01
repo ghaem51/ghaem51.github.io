@@ -205,7 +205,7 @@ export const RESUME_DATA = {
       name: "CVE-2022-32211",
       techStack: ["nodejs","mongodb","NoSQLInjection"],
       description: "NoSQL injection vulnerability in Rocket.Chat <v3.18.6, <v4.4.4, <v4.7.3 allows attacker to retrieve reset password token or 2FA secret.",
-      link: "https://docs.rocket.chat/docs/cve-2022-32211",
+      link: "https://nvd.nist.gov/vuln/detail/CVE-2022-32211",
     },
   ]
 } as const;
